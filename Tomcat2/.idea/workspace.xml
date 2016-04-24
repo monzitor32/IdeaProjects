@@ -67,8 +67,10 @@
       <file leaf-file-name="TestBaseSetup.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/lh/base/TestBaseSetup.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1717">
-              <folding />
+            <state line="12" column="0" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1717">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,19 +97,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Log.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Log.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/lh/utility/Log.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="0" selection-start="1562" selection-end="1562" vertical-scroll-proportion="0.82229966" vertical-offset="837" max-vertical-offset="1428">
+            <state line="77" column="0" selection-start="1562" selection-end="1562" vertical-scroll-proportion="0.0" vertical-offset="633" max-vertical-offset="1428">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BasePageTomcat.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="BasePageTomcat.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/lh/common/pageobjects/BasePageTomcat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="218" column="1" selection-start="7125" selection-end="7125" vertical-scroll-proportion="0.0" vertical-offset="3234" max-vertical-offset="3808">
+            <state line="47" column="50" selection-start="2149" selection-end="2149" vertical-scroll-proportion="1.391986" vertical-offset="0" max-vertical-offset="3842">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScreenShooter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lh/utility/ScreenShooter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="0" selection-start="696" selection-end="696" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -137,15 +150,16 @@
         <option value="$PROJECT_DIR$/src/main/java/com/lh/common/pageobjects/SuccessfullLogoutPageTomcat.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lh/common/pageobjects/SignInPageTomcat.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/lh/common/tests/MyActivitiesPageTomcatTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/lh/common/pageobjects/ChangeEmailPageTomcat.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lh/common/pageobjects/MyActivitiesPageTomcat.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lh/base/Log.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lh/base/TestBaseSetup.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/lh/common/tests/TestBasePageTomcat.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lh/common/pageobjects/BasePageTomcat.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/lh/common/tests/BasePageTomcatTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/lh/utility/Log.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lh/utility/ScreenShooter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lh/common/pageobjects/BasePageTomcat.java" />
       </list>
     </option>
   </component>
@@ -365,6 +379,7 @@
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/lh/common/tests" />
+    <property name="SearchEverywhereHistory" value="" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -779,7 +794,9 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lh/base/TestBaseSetup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="79" column="34" selection-start="2434" selection-end="2476" vertical-scroll-proportion="0.0" vertical-offset="1343" max-vertical-offset="1683">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -816,7 +833,9 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lh/base/TestBaseSetup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="79" column="79" selection-start="2479" selection-end="2479" vertical-scroll-proportion="0.0" vertical-offset="1343" max-vertical-offset="1683">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -871,7 +890,9 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lh/base/TestBaseSetup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="9" selection-start="0" selection-end="1266" vertical-scroll-proportion="0.0" vertical-offset="164" max-vertical-offset="1003">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -991,13 +1012,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="31" selection-start="597" selection-end="597" vertical-scroll-proportion="0.36419752" vertical-offset="129" max-vertical-offset="697">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/lh/common/tests/MyActivitiesPageTomcatTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="48" column="0" selection-start="1244" selection-end="1325" vertical-scroll-proportion="0.52469134" vertical-offset="561" max-vertical-offset="2856">
@@ -1021,22 +1035,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lh/base/TestBaseSetup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0" vertical-offset="231" max-vertical-offset="1717">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lh/common/pageobjects/BasePageTomcat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="218" column="1" selection-start="7125" selection-end="7125" vertical-scroll-proportion="0.0" vertical-offset="3234" max-vertical-offset="3808">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/lh/common/tests/TestBasePageTomcat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="0" selection-start="762" selection-end="975" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1887">
@@ -1055,10 +1053,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lh/base/TestBaseSetup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0" vertical-offset="231" max-vertical-offset="1717">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="0" selection-start="970" selection-end="970" vertical-scroll-proportion="0.4965157" vertical-offset="259" max-vertical-offset="833">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lh/utility/Log.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="0" selection-start="1562" selection-end="1562" vertical-scroll-proportion="0.82229966" vertical-offset="837" max-vertical-offset="1428">
+        <state line="77" column="0" selection-start="1562" selection-end="1562" vertical-scroll-proportion="0.0" vertical-offset="633" max-vertical-offset="1428">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lh/utility/ScreenShooter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="696" selection-end="696" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lh/common/pageobjects/BasePageTomcat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="50" selection-start="2149" selection-end="2149" vertical-scroll-proportion="1.391986" vertical-offset="0" max-vertical-offset="3842">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

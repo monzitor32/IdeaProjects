@@ -1,7 +1,7 @@
 package com.lh.common.pageobjects;
 
-
 import com.lh.utility.Log;
+import com.lh.utility.ScreenShooter;
 import junit.framework.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -88,6 +88,7 @@ public class BasePageTomcat {
             Log.error("BasePageTomcat Page Title Test: FAILED");
             Log.error("BasePageTitle Found : " + driver.getTitle());
             Log.error("BasePageTitle Wanted: " + basePageTitle);
+            ScreenShooter.getscreenshot("bingo",driver);
             return false;
         }
     }
@@ -214,6 +215,7 @@ public class BasePageTomcat {
     public void basePageTomcatPrint(String messageOut){
         Log.info(messageOut);
     }
+
 
 
 }
