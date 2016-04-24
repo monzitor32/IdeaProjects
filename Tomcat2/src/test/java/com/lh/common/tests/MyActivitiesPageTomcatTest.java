@@ -46,7 +46,7 @@ public class MyActivitiesPageTomcatTest extends TestBaseSetup {
 
     @Test
     public void verifyMyActivitiesPage() throws Exception {
-        System.out.println("MyActivities page test BEGINS...");
+//        basePageTomcat.basePageTomcatPrint("MyActivities page test BEGINS...");
         basePageTomcat = new BasePageTomcat(driver);
         signInPageTomcat = new SignInPageTomcat(driver);
         myActivitiesPageTomcat	= new MyActivitiesPageTomcat(driver);

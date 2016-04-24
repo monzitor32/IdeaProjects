@@ -5,7 +5,7 @@ package com.lh.common.pageobjects;
  */
 
 
-        import org.junit.Assert;
+import junit.framework.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;

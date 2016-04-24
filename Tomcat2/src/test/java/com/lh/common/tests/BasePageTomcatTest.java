@@ -1,44 +1,106 @@
 package com.lh.common.tests;
 
-/**
- * Created by mcs on 19/04/16.
- */
-
-
 import com.lh.base.TestBaseSetup;
 import com.lh.common.pageobjects.BasePageTomcat;
-import org.junit.BeforeClass;
+import com.lh.utility.Log;
+import junit.framework.Assert;
 import org.openqa.selenium.WebDriver;
-import org.testng.Assert;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 public class BasePageTomcatTest extends TestBaseSetup{
 
     private WebDriver driver;
-    private BasePageTomcatTest basePageTomcatTest;
+    private BasePageTomcat basePageTomcat;
 
-   @BeforeClass
+
+    @BeforeClass
     public void setUp() {
         driver=getDriver();
-        System.out.println("Home page test..1.");
+       Log.startTestCase("BasePageTomcat");
     }
 
+
+    @AfterClass
+    public void tearDown() {
+        driver.quit();
+        Log.endTestCase("BasePageTomcat");
+    }
+
+
+    /**Check for the Page Title details
+     *
+     */
     @Test
-    public void verifyHomePage() {
-        driver=getDriver();
-        System.out.println("Home page test..2.");
+    public void verifyHomePageTitle() throws Exception {
+
         BasePageTomcat basePageTomcat = new BasePageTomcat(driver);
-        System.out.println("Home page test..3.");
-        Assert.assertTrue(basePageTomcat.verifyBasePageTitle(), "Base Page title doesn't match");
-        System.out.println("Home page test...");
-        Assert.assertTrue(basePageTomcat.verifyBasePageHomeLink(), "Base Page Home Link not present.");
-        Assert.assertTrue(basePageTomcat.verifyBasePageHelpLink(), "Base Page Help Link not present.");
-        Assert.assertTrue(basePageTomcat.verifyBasePageResetPasswordLink(), "Base Page Create Account Link not present.");
-        Assert.assertTrue(basePageTomcat.verifyBasePageCreateAccountLink(), "Base Page Reset Password Link not present.");
-        Assert.assertTrue(basePageTomcat.verifyBasePageLoginLink(), "Base Page Login link not present");
-        Assert.assertTrue(basePageTomcat.verifyBasePageWelcomeToPortalText(), "Base Page Welcome to Portal Text not present");
-        Assert.assertTrue(basePageTomcat.verifyBasePageNavigatePortalText(), "Base Page Navigate Portal Text not present");
+        Assert.assertTrue(basePageTomcat.verifyBasePageTitle());
+
+        Assert.assertTrue(basePageTomcat.verifyBasePageHomeLink());
+
+        Assert.assertTrue(basePageTomcat.verifyBasePageHelpLink());
+        Assert.assertTrue(basePageTomcat.verifyBasePageResetPasswordLink());
+        Assert.assertTrue(basePageTomcat.verifyBasePageCreateAccountLink());
+        Assert.assertTrue(basePageTomcat.verifyBasePageLoginLink());
+        Assert.assertTrue(basePageTomcat.verifyBasePageWelcomeToPortalText());
+        Assert.assertTrue(basePageTomcat.verifyBasePageNavigatePortalText());
+        Assert.assertTrue(basePageTomcat.verifyBasePageSubmitButton());
+
+        basePageTomcat.basePageTomcatPrint("ALL TESTS PASSED");
 
     }
+
+
+
+//    @Test
+//    public void verifyBasePageHomeLink() throws Exception{
+//        BasePageTomcat basePageTomcat = new BasePageTomcat(driver);
+//        basePageTomcat.verifyBasePageHomeLink();
+//    }
+
+//    @Test
+    public void verifyBasePageHelpLink() throws Exception{
+        BasePageTomcat basePageTomcat = new BasePageTomcat(driver);
+        basePageTomcat.verifyBasePageHelpLink();
+    }
+
+//    @Test
+    public void verifyBasePageResetPasswordLink() throws Exception{
+        BasePageTomcat basePageTomcat = new BasePageTomcat(driver);
+        basePageTomcat.verifyBasePageResetPasswordLink();
+    }
+
+//    @Test
+    public void verifyBasePageCreateAccountLink() throws Exception{
+        BasePageTomcat basePageTomcat = new BasePageTomcat(driver);
+        basePageTomcat.verifyBasePageCreateAccountLink();
+    }
+
+//    @Test
+    public void verifyBasePageLoginLink() throws Exception{
+        BasePageTomcat basePageTomcat = new BasePageTomcat(driver);
+        basePageTomcat.verifyBasePageLoginLink();
+    }
+
+//    @Test
+    public void verifyBasePageWelcomeToPortalText() throws Exception{
+        BasePageTomcat basePageTomcat = new BasePageTomcat(driver);
+        basePageTomcat.verifyBasePageWelcomeToPortalText();
+    }
+
+//    @Test
+    public void verifyBasePageNavigatePortalText() throws Exception{
+        BasePageTomcat basePageTomcat = new BasePageTomcat(driver);
+        basePageTomcat.verifyBasePageNavigatePortalText();
+    }
+
+//    @Test
+    public void verifyBasePageSubmitButton() throws Exception{
+        BasePageTomcat basePageTomcat = new BasePageTomcat(driver);
+        basePageTomcat.verifyBasePageSubmitButton();
+    }
+
 
 }

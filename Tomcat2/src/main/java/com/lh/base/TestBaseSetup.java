@@ -17,7 +17,9 @@ public class TestBaseSetup {
     public WebDriver getDriver() {
 
         System.out.println("Starting getDriver..");
+        //Log.startTestCase("MyActivitiesPageTomcat");
         return driver;
+
     }
 
     private void setDriver(String browserType, String appURL) {

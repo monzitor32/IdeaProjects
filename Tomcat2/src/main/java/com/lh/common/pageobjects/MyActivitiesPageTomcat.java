@@ -4,7 +4,7 @@ package com.lh.common.pageobjects;
  * Created by mcs on 19/04/16.
  */
 
-import org.junit.Assert;
+import junit.framework.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
