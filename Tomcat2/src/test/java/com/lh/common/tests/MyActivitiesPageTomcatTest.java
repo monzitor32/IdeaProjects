@@ -5,20 +5,19 @@ package com.lh.common.tests;
  */
 
 
-        import org.openqa.selenium.WebDriver;
+import com.lh.base.TestBaseSetup;
+import com.lh.common.pageobjects.BasePageTomcat;
+import com.lh.common.pageobjects.MyActivitiesPageTomcat;
+import com.lh.common.pageobjects.SignInPageTomcat;
+import com.lh.utility.Log;
+import com.lh.utility.ScreenShooter;
+import org.openqa.selenium.WebDriver;
+import org.testng.Assert;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
 
-        import org.testng.Assert;
-        import org.testng.annotations.BeforeClass;
-        import org.testng.annotations.AfterClass;
-        import org.testng.annotations.Test;
 
-        import com.lh.base.TestBaseSetup;
-        import com.lh.common.pageobjects.BasePageTomcat;
-//      import com.lh.common.pageobjects.CreateAccountPageTomcat;
-        import com.lh.common.pageobjects.SignInPageTomcat;
-        import com.lh.common.pageobjects.MyActivitiesPageTomcat;
-
-//      import lh.com.utility.Log;
 
 public class MyActivitiesPageTomcatTest extends TestBaseSetup {
     private WebDriver driver;
@@ -32,19 +31,74 @@ public class MyActivitiesPageTomcatTest extends TestBaseSetup {
     public void setUp() {
         driver=getDriver();
 
-//        Log.startTestCase("MyActivitiesPageTomcat");
+        Log.startTestCase("MyActivitiesPageTomcat");
 
     }
 
     @AfterClass
     public void setDown() {
 
-//        Log.endTestCase("MyActivitiesPageTomcat");
+        Log.endTestCase("MyActivitiesPageTomcat");
+        driver.close();
+//        driver.quit();
+    }
+
+
+    /**
+     * Verify Base Page details are correct.
+     * @throws Exception
+     */
+    @Test
+    public void verifyBasePage() throws Exception{
+        BasePageTomcat basePageTomcat = new BasePageTomcat(driver);
+        Assert.assertTrue(basePageTomcat.verifyBasePageTitle());
+
+        Assert.assertTrue(basePageTomcat.verifyBasePageHomeLink());
+
+        Assert.assertTrue(basePageTomcat.verifyBasePageHelpLink());
+        Assert.assertTrue(basePageTomcat.verifyBasePageResetPasswordLink());
+        Assert.assertTrue(basePageTomcat.verifyBasePageCreateAccountLink());
+        Assert.assertTrue(basePageTomcat.verifyBasePageLoginLink());
+        Assert.assertTrue(basePageTomcat.verifyBasePageWelcomeToPortalText());
+        Assert.assertTrue(basePageTomcat.verifyBasePageNavigatePortalText());
+        Assert.assertTrue(basePageTomcat.verifyBasePageSubmitButton());
+
+        ScreenShooter.messageTomcatPrint("MyActivitiesPage VERIFY BASE PAGE DETAILS PASSED.");
+
+        // Assert.assertTrue(signInPageTomcat.verifySignInPageTitle();
+
+        myActivitiesPageTomcat = new MyActivitiesPageTomcat(driver);
+        Assert.assertFalse(myActivitiesPageTomcat.verifySignIn());
+
+
+
+
 
     }
 
 
     @Test
+
+    public void verifyMyActivitiesNavigatePageText() throws Exception{
+        //myActivitiesPageTomcat = new MyActivitiesPageTomcat(driver);
+
+            //myActivitiesPageTomcat = new MyActivitiesPageTomcat(driver);
+
+        Assert.assertTrue(myActivitiesPageTomcat.verifyHeaderPageText());
+
+        Assert.assertTrue(myActivitiesPageTomcat.verifyMyActivitiesNavigatePageText());
+        Assert.assertTrue(myActivitiesPageTomcat.verifyMyActivitiesPageNewLodgementLink());
+        Assert.assertTrue(myActivitiesPageTomcat.verifyMyActivitiesPageAccountProfileLink());
+        Assert.assertTrue(myActivitiesPageTomcat.verifyMyActivitiesPageHomeLink());
+        Assert.assertTrue(myActivitiesPageTomcat.verifyMyActivitiesLink());
+        Assert.assertTrue(myActivitiesPageTomcat.verifyMyActivitiesPageLogoutButton());
+
+        ScreenShooter.messageTomcatPrint("MyActivitiesPage SHOWING LAST LINE.");
+
+    }
+
+
+//    @Test
     public void verifyMyActivitiesPage() throws Exception {
 //        basePageTomcat.basePageTomcatPrint("MyActivities page test BEGINS...");
         basePageTomcat = new BasePageTomcat(driver);
@@ -79,7 +133,7 @@ public class MyActivitiesPageTomcatTest extends TestBaseSetup {
     }
 
 
-    @Test
+//    @Test
     public void verifyPageTitle() throws Exception {
         System.out.println("MyActivities Functions second  section gegins");
         Thread.sleep(1000);
@@ -91,43 +145,43 @@ public class MyActivitiesPageTomcatTest extends TestBaseSetup {
     }
 
 
-    @Test
+//    @Test
     public void verifyPageText() throws Exception {
         System.out.println("MyActivities Functions second  section gegins");
         myActivitiesPageTomcat = new MyActivitiesPageTomcat(driver);
-        myActivitiesPageTomcat.verifyMyActivitiesPageTomcatText();
+        myActivitiesPageTomcat.verifyMyActivitiesNavigatePageText();
         System.out.println("MyActivities verify pageText Ends..");
     }
 
-    @Test
+//    @Test
     public void verifyAccountProfileLink() throws Exception{
         myActivitiesPageTomcat = new MyActivitiesPageTomcat(driver);
         Thread.sleep(2000);
         myActivitiesPageTomcat.verifyMyActivitiesPageAccountProfileLink();
     }
 
-    @Test
+//    @Test
     public void verifyNewLodgementLink() throws Exception{
         myActivitiesPageTomcat = new MyActivitiesPageTomcat(driver);
         myActivitiesPageTomcat.verifyMyActivitiesPageNewLodgementLink();
     }
 
 
-    @Test
+//    @Test
     public void verifyHomeLink() throws Exception{
         myActivitiesPageTomcat = new MyActivitiesPageTomcat(driver);
         myActivitiesPageTomcat.verifyMyActivitiesPageHomeLink();
     }
 
 
-    @Test
+//    @Test
     public void verifyLogoutButton() throws Exception{
         myActivitiesPageTomcat = new MyActivitiesPageTomcat(driver);
         myActivitiesPageTomcat.verifyMyActivitiesPageLogoutButton();
     }
 
 
-    @Test
+//    @Test
     public void verifyUserName() throws Exception{
         myActivitiesPageTomcat = new MyActivitiesPageTomcat(driver);
 

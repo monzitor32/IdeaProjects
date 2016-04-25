@@ -55,13 +55,13 @@ public class BasePageTomcat {
 
     //original start
     public SignInPageTomcat clickSignInBtn() {
-        System.out.println("basePageTomcat Clicking on sign in button.");
+
         WebElement signInBtnElement=driver.findElement(signInButton);
         if(signInBtnElement.isDisplayed()||signInBtnElement.isEnabled())
-            //signInBtnElement.click();
-            System.out.println("SignInButtound FOUND.");
+            signInBtnElement.click();
+
         else System.out.println("Element not found");
-        System.out.println("basePageTomcat Clicked on sign in button.");
+
         return new SignInPageTomcat(driver);
     }
 
@@ -88,7 +88,7 @@ public class BasePageTomcat {
             Log.error("BasePageTomcat Page Title Test: FAILED");
             Log.error("BasePageTitle Found : " + driver.getTitle());
             Log.error("BasePageTitle Wanted: " + basePageTitle);
-            ScreenShooter.getscreenshot("bingo",driver);
+            ScreenShooter.getscreenshot("bingo", driver);
             return false;
         }
     }
@@ -216,6 +216,9 @@ public class BasePageTomcat {
         Log.info(messageOut);
     }
 
-
+    public void tearDown() {
+        Log.warn("Tear Down BasePageTomcat after error....");
+        driver.quit();
+    }
 
 }

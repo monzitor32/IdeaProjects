@@ -1,16 +1,19 @@
-package com.lh.common.pageobjects;
+package com.lh.com.lh.common.pageobjects.navigate;
+
+import com.lh.common.pageobjects.MyActivitiesPageTomcat;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+
+/**
+ * Created by mcs on 24/04/16.
+ */
+public class SignInPageNavigate {
 
 /**
  * Created by mcs on 19/04/16.
  */
 
-
-        import org.openqa.selenium.By;
-        import org.openqa.selenium.WebDriver;
-        import org.openqa.selenium.WebElement;
-        import org.openqa.selenium.support.PageFactory;
-
-public class SignInPageTomcat {
 
     private WebDriver driver;
 
@@ -38,9 +41,8 @@ public class SignInPageTomcat {
     private String userNameSI;
     private String passwordSI;
 
-    public SignInPageTomcat(WebDriver driver) {
+    public SignInPageNavigate(WebDriver driver) {
         this.driver=driver;
-        PageFactory.initElements(driver, this);
     }
 
     public String getSignInPageTitle() {
@@ -87,7 +89,7 @@ public class SignInPageTomcat {
 //        return new CreateAccountPage(driver);
 //    }
 
-//    public boolean verifySignIn() {
+    //    public boolean verifySignIn() {
 //        System.out.println("verifySignIn BEGIN.");
 //        enterUserName("wheel37xr");
 //        enterPassword("Portal32");

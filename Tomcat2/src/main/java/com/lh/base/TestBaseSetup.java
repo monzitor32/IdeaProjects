@@ -1,5 +1,6 @@
 package com.lh.base;
 
+import com.lh.utility.Log;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -90,7 +91,7 @@ public class TestBaseSetup {
     @AfterClass
     public void tearDown() {
 
-        System.out.println("Tear Down BASETEST..");
+        Log.info("Tear Down BASETEST..");
         driver.quit();
     }
 }
