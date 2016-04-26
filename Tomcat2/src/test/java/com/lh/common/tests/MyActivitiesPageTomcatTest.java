@@ -71,7 +71,7 @@ public class MyActivitiesPageTomcatTest extends TestBaseSetup {
         Assert.assertFalse(myActivitiesPageTomcat.verifySignIn());
 
 
-
+        ScreenShooter.messageTomcatPrint("MyActivitiesPage LEAVING TEST 1.");
 
 
     }
@@ -82,16 +82,37 @@ public class MyActivitiesPageTomcatTest extends TestBaseSetup {
     public void verifyMyActivitiesNavigatePageText() throws Exception{
         //myActivitiesPageTomcat = new MyActivitiesPageTomcat(driver);
 
-            //myActivitiesPageTomcat = new MyActivitiesPageTomcat(driver);
+        ScreenShooter.messageTomcatPrint("MyActivitiesPage ENTERING TEST 2.");
+
+       myActivitiesPageTomcat = new MyActivitiesPageTomcat(driver);
 
         Assert.assertTrue(myActivitiesPageTomcat.verifyHeaderPageText());
 
+        ScreenShooter.messageTomcatPrint("MyActivitiesPage Fisnished  TEST 2a.");
+
         Assert.assertTrue(myActivitiesPageTomcat.verifyMyActivitiesNavigatePageText());
+
+        ScreenShooter.messageTomcatPrint("MyActivitiesPage Fisnished  TEST 2b.");
+
         Assert.assertTrue(myActivitiesPageTomcat.verifyMyActivitiesPageNewLodgementLink());
+        ScreenShooter.messageTomcatPrint("MyActivitiesPage Fisnished  TEST 2c.");
+
         Assert.assertTrue(myActivitiesPageTomcat.verifyMyActivitiesPageAccountProfileLink());
+
+        ScreenShooter.messageTomcatPrint("MyActivitiesPage Fisnished  TEST 2d.");
         Assert.assertTrue(myActivitiesPageTomcat.verifyMyActivitiesPageHomeLink());
+
+        ScreenShooter.messageTomcatPrint("MyActivitiesPage Fisnished  TEST 2e.");
         Assert.assertTrue(myActivitiesPageTomcat.verifyMyActivitiesLink());
+
+        ScreenShooter.messageTomcatPrint("MyActivitiesPage Fisnished  TEST 2f.");
+
         Assert.assertTrue(myActivitiesPageTomcat.verifyMyActivitiesPageLogoutButton());
+
+        ScreenShooter.messageTomcatPrint("MyActivitiesPage Fisnished  TEST 2g.");
+
+        myActivitiesPageTomcat.clickOnLogoutButton();
+        
 
         ScreenShooter.messageTomcatPrint("MyActivitiesPage SHOWING LAST LINE.");
 

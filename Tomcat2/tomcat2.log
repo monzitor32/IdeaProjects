@@ -1,193 +1,209 @@
-2016-04-26 05:23:25,263 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:23:25,264 INFO  [Log] BEGIN MyActivitiesPageTomcat 
-2016-04-26 05:23:25,264 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:23:25,706 INFO  [Log] MyActivitiesPage VERIFY BASE PAGE DETAILS PASSED. 
-2016-04-26 05:23:29,439 INFO  [Log] MyActivitiesPage SHOWING LAST LINE. 
-2016-04-26 05:23:29,440 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:23:29,440 INFO  [Log] END MyActivitiesPageTomcat 
-2016-04-26 05:23:29,440 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:23:29,440 INFO  [Log] X 
-2016-04-26 05:23:29,440 INFO  [Log] X 
-2016-04-26 05:23:29,454 INFO  [Log] Tear Down BASETEST.. 
-2016-04-26 05:26:28,567 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:26:28,568 INFO  [Log] BEGIN MyActivitiesPageTomcat 
-2016-04-26 05:26:28,568 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:26:29,049 INFO  [Log] MyActivitiesPage VERIFY BASE PAGE DETAILS PASSED. 
-2016-04-26 05:26:33,020 INFO  [Log] Profile link text Account Profile 
-2016-04-26 05:26:33,020 INFO  [Log] MyActivitiesPage SHOWING LAST LINE. 
-2016-04-26 05:26:33,021 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:26:33,021 INFO  [Log] END MyActivitiesPageTomcat 
-2016-04-26 05:26:33,021 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:26:33,022 INFO  [Log] X 
-2016-04-26 05:26:33,022 INFO  [Log] X 
-2016-04-26 05:26:33,039 INFO  [Log] Tear Down BASETEST.. 
-2016-04-26 05:34:26,244 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:34:26,245 INFO  [Log] BEGIN MyActivitiesPageTomcat 
-2016-04-26 05:34:26,245 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:34:26,732 INFO  [Log] MyActivitiesPage VERIFY BASE PAGE DETAILS PASSED. 
-2016-04-26 05:34:30,647 INFO  [Log] Profile link text New Lodgement 
-2016-04-26 05:34:30,726 INFO  [Log] Profile link text Account Profile 
-2016-04-26 05:34:30,726 INFO  [Log] MyActivitiesPage SHOWING LAST LINE. 
-2016-04-26 05:34:30,728 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:34:30,728 INFO  [Log] END MyActivitiesPageTomcat 
-2016-04-26 05:34:30,728 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:34:30,728 INFO  [Log] X 
-2016-04-26 05:34:30,728 INFO  [Log] X 
-2016-04-26 05:34:30,742 INFO  [Log] Tear Down BASETEST.. 
-2016-04-26 05:39:14,929 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:39:14,931 INFO  [Log] BEGIN MyActivitiesPageTomcat 
-2016-04-26 05:39:14,931 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:39:15,356 INFO  [Log] MyActivitiesPage VERIFY BASE PAGE DETAILS PASSED. 
-2016-04-26 05:39:19,346 INFO  [Log] Profile link text New Lodgement 
-2016-04-26 05:39:19,424 INFO  [Log] Profile link text Account Profile 
-2016-04-26 05:39:19,491 INFO  [Log] Profile link text Home 
-2016-04-26 05:39:19,491 INFO  [Log] MyActivitiesPage SHOWING LAST LINE. 
-2016-04-26 05:39:19,493 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:39:19,493 INFO  [Log] END MyActivitiesPageTomcat 
-2016-04-26 05:39:19,493 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:39:19,493 INFO  [Log] X 
-2016-04-26 05:39:19,493 INFO  [Log] X 
-2016-04-26 05:39:19,505 INFO  [Log] Tear Down BASETEST.. 
-2016-04-26 05:54:40,327 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:54:40,328 INFO  [Log] BEGIN MyActivitiesPageTomcat 
-2016-04-26 05:54:40,328 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:54:40,884 INFO  [Log] MyActivitiesPage VERIFY BASE PAGE DETAILS PASSED. 
-2016-04-26 05:54:44,813 INFO  [Log] Profile link text New Lodgement 
-2016-04-26 05:54:44,880 INFO  [Log] Profile link text Account Profile 
-2016-04-26 05:54:44,937 INFO  [Log] Profile link text Home 
-2016-04-26 05:54:44,995 INFO  [Log] Profile link text My Activities 
-2016-04-26 05:54:45,060 INFO  [Log] Profile link text  
-2016-04-26 05:54:45,060 INFO  [Log] MyActivitiesPage SHOWING LAST LINE. 
-2016-04-26 05:54:45,061 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:54:45,061 INFO  [Log] END MyActivitiesPageTomcat 
-2016-04-26 05:54:45,061 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:54:45,061 INFO  [Log] X 
-2016-04-26 05:54:45,061 INFO  [Log] X 
-2016-04-26 05:54:45,072 INFO  [Log] Tear Down BASETEST.. 
-2016-04-26 05:56:52,608 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:56:52,609 INFO  [Log] BEGIN MyActivitiesPageTomcat 
-2016-04-26 05:56:52,610 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:56:53,034 INFO  [Log] MyActivitiesPage VERIFY BASE PAGE DETAILS PASSED. 
-2016-04-26 05:56:56,943 INFO  [Log] Profile link text New Lodgement 
-2016-04-26 05:56:57,013 INFO  [Log] Profile link text Account Profile 
-2016-04-26 05:56:57,080 INFO  [Log] MyActivitiesPage Home link text Home 
-2016-04-26 05:56:57,153 INFO  [Log] MyActivitiesPage MyActivities link text My Activities 
-2016-04-26 05:56:57,226 INFO  [Log] MyActivitiesPage Logout Button link text  
-2016-04-26 05:56:57,226 INFO  [Log] MyActivitiesPage SHOWING LAST LINE. 
-2016-04-26 05:56:57,228 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:56:57,228 INFO  [Log] END MyActivitiesPageTomcat 
-2016-04-26 05:56:57,229 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:56:57,229 INFO  [Log] X 
-2016-04-26 05:56:57,229 INFO  [Log] X 
-2016-04-26 05:56:57,241 INFO  [Log] Tear Down BASETEST.. 
-2016-04-26 05:59:09,540 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:59:09,542 INFO  [Log] BEGIN MyActivitiesPageTomcat 
-2016-04-26 05:59:09,542 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:59:09,990 INFO  [Log] MyActivitiesPage VERIFY BASE PAGE DETAILS PASSED. 
-2016-04-26 05:59:14,003 INFO  [Log] Profile link text= New Lodgement 
-2016-04-26 05:59:14,080 INFO  [Log] Profile link text= Account Profile 
-2016-04-26 05:59:14,148 INFO  [Log] MyActivitiesPage Home link text= Home 
-2016-04-26 05:59:14,218 INFO  [Log] MyActivitiesPage MyActivities link text= My Activities 
-2016-04-26 05:59:14,291 INFO  [Log] MyActivitiesPage Logout Button link text=  
-2016-04-26 05:59:14,291 INFO  [Log] MyActivitiesPage SHOWING LAST LINE. 
-2016-04-26 05:59:14,293 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:59:14,293 INFO  [Log] END MyActivitiesPageTomcat 
-2016-04-26 05:59:14,293 INFO  [Log] **************************************************************************************** 
-2016-04-26 05:59:14,293 INFO  [Log] X 
-2016-04-26 05:59:14,293 INFO  [Log] X 
-2016-04-26 05:59:14,305 INFO  [Log] Tear Down BASETEST.. 
-2016-04-26 06:04:19,986 INFO  [Log] **************************************************************************************** 
-2016-04-26 06:04:19,987 INFO  [Log] BEGIN MyActivitiesPageTomcat 
-2016-04-26 06:04:19,987 INFO  [Log] **************************************************************************************** 
-2016-04-26 06:04:20,462 INFO  [Log] MyActivitiesPage VERIFY BASE PAGE DETAILS PASSED. 
-2016-04-26 06:04:24,627 INFO  [Log] Profile link text= New Lodgement 
-2016-04-26 06:04:24,696 INFO  [Log] Profile link text= Account Profile 
-2016-04-26 06:04:24,762 INFO  [Log] MyActivitiesPage Home link text= Home 
-2016-04-26 06:04:24,831 INFO  [Log] MyActivitiesPage MyActivities link text= My Activities 
-2016-04-26 06:04:24,917 INFO  [Log] MyActivitiesPage Logout Button link text= input 
-2016-04-26 06:04:24,917 INFO  [Log] MyActivitiesPage SHOWING LAST LINE. 
-2016-04-26 06:04:24,918 INFO  [Log] **************************************************************************************** 
-2016-04-26 06:04:24,918 INFO  [Log] END MyActivitiesPageTomcat 
-2016-04-26 06:04:24,918 INFO  [Log] **************************************************************************************** 
-2016-04-26 06:04:24,918 INFO  [Log] X 
-2016-04-26 06:04:24,918 INFO  [Log] X 
-2016-04-26 06:04:24,928 INFO  [Log] Tear Down BASETEST.. 
-2016-04-26 06:27:14,201 INFO  [Log] **************************************************************************************** 
-2016-04-26 06:27:14,202 INFO  [Log] BEGIN MyActivitiesPageTomcat 
-2016-04-26 06:27:14,203 INFO  [Log] **************************************************************************************** 
-2016-04-26 06:27:14,751 INFO  [Log] MyActivitiesPage VERIFY BASE PAGE DETAILS PASSED. 
-2016-04-26 06:27:18,787 INFO  [Log] Profile link text= New Lodgement 
-2016-04-26 06:27:18,863 INFO  [Log] Profile link text= Account Profile 
-2016-04-26 06:27:18,927 INFO  [Log] MyActivitiesPage Home link text= Home 
-2016-04-26 06:27:19,019 INFO  [Log] MyActivitiesPage MyActivities link text= My Activities 
-2016-04-26 06:27:19,077 INFO  [Log] MyActivitiesPage Logout Button link text= input 
-2016-04-26 06:27:19,077 INFO  [Log] MyActivitiesPage SHOWING LAST LINE. 
-2016-04-26 06:27:19,079 INFO  [Log] **************************************************************************************** 
-2016-04-26 06:27:19,079 INFO  [Log] END MyActivitiesPageTomcat 
-2016-04-26 06:27:19,079 INFO  [Log] **************************************************************************************** 
-2016-04-26 06:27:19,079 INFO  [Log] X 
-2016-04-26 06:27:19,079 INFO  [Log] X 
-2016-04-26 06:27:19,092 INFO  [Log] Tear Down BASETEST.. 
-2016-04-26 06:28:08,117 INFO  [Log] **************************************************************************************** 
-2016-04-26 06:28:08,118 INFO  [Log] BEGIN MyActivitiesPageTomcat 
-2016-04-26 06:28:08,118 INFO  [Log] **************************************************************************************** 
-2016-04-26 06:28:08,614 INFO  [Log] MyActivitiesPage VERIFY BASE PAGE DETAILS PASSED. 
-2016-04-26 06:28:12,587 INFO  [Log] Profile link text= New Lodgement 
-2016-04-26 06:28:12,651 INFO  [Log] Profile link text= Account Profile 
-2016-04-26 06:28:12,695 INFO  [Log] MyActivitiesPage Home link text= Home 
-2016-04-26 06:28:12,752 INFO  [Log] MyActivitiesPage MyActivities link text= My Activities 
-2016-04-26 06:28:12,859 INFO  [Log] MyActivitiesPage Logout Button link text=  
-2016-04-26 06:28:12,859 INFO  [Log] MyActivitiesPage SHOWING LAST LINE. 
-2016-04-26 06:28:12,860 INFO  [Log] **************************************************************************************** 
-2016-04-26 06:28:12,860 INFO  [Log] END MyActivitiesPageTomcat 
-2016-04-26 06:28:12,860 INFO  [Log] **************************************************************************************** 
-2016-04-26 06:28:12,860 INFO  [Log] X 
-2016-04-26 06:28:12,860 INFO  [Log] X 
-2016-04-26 06:28:12,872 INFO  [Log] Tear Down BASETEST.. 
-2016-04-26 06:32:24,112 INFO  [Log] **************************************************************************************** 
-2016-04-26 06:32:24,113 INFO  [Log] BEGIN MyActivitiesPageTomcat 
-2016-04-26 06:32:24,113 INFO  [Log] **************************************************************************************** 
-2016-04-26 06:32:24,653 INFO  [Log] MyActivitiesPage VERIFY BASE PAGE DETAILS PASSED. 
-2016-04-26 06:32:28,568 INFO  [Log] Profile link text= New Lodgement 
-2016-04-26 06:32:28,644 INFO  [Log] Profile link text= Account Profile 
-2016-04-26 06:32:28,714 INFO  [Log] MyActivitiesPage Home link text= Home 
-2016-04-26 06:32:28,789 INFO  [Log] MyActivitiesPage MyActivities link text= My Activities 
-2016-04-26 06:32:28,839 INFO  [Log] MyActivitiesPage Logout Button link text= [[FirefoxDriver: firefox on WINDOWS (c81e9756-625b-4d99-960a-a82459c847c8)] -> css selector: input[type=submit]] 
-2016-04-26 06:32:28,840 INFO  [Log] MyActivitiesPage SHOWING LAST LINE. 
-2016-04-26 06:32:28,841 INFO  [Log] **************************************************************************************** 
-2016-04-26 06:32:28,841 INFO  [Log] END MyActivitiesPageTomcat 
-2016-04-26 06:32:28,841 INFO  [Log] **************************************************************************************** 
-2016-04-26 06:32:28,841 INFO  [Log] X 
-2016-04-26 06:32:28,841 INFO  [Log] X 
-2016-04-26 06:32:28,854 INFO  [Log] Tear Down BASETEST.. 
-2016-04-26 06:39:38,585 INFO  [Log] **************************************************************************************** 
-2016-04-26 06:39:38,586 INFO  [Log] BEGIN MyActivitiesPageTomcat 
-2016-04-26 06:39:38,586 INFO  [Log] **************************************************************************************** 
-2016-04-26 06:39:39,263 INFO  [Log] MyActivitiesPage VERIFY BASE PAGE DETAILS PASSED. 
-2016-04-26 06:39:43,195 INFO  [Log] Profile link text= New Lodgement 
-2016-04-26 06:39:43,247 INFO  [Log] Profile link text= Account Profile 
-2016-04-26 06:39:43,295 INFO  [Log] MyActivitiesPage Home link text= Home 
-2016-04-26 06:39:43,348 INFO  [Log] MyActivitiesPage MyActivities link text= My Activities 
-2016-04-26 06:39:43,394 INFO  [Log] MyActivitiesPage Logout Button link text=  
-2016-04-26 06:39:43,394 INFO  [Log] MyActivitiesPage SHOWING LAST LINE. 
-2016-04-26 06:39:43,395 INFO  [Log] **************************************************************************************** 
-2016-04-26 06:39:43,396 INFO  [Log] END MyActivitiesPageTomcat 
-2016-04-26 06:39:43,396 INFO  [Log] **************************************************************************************** 
-2016-04-26 06:39:43,396 INFO  [Log] X 
-2016-04-26 06:39:43,396 INFO  [Log] X 
-2016-04-26 06:39:43,408 INFO  [Log] Tear Down BASETEST.. 
-2016-04-26 07:02:20,591 INFO  [Log] **************************************************************************************** 
-2016-04-26 07:02:20,592 INFO  [Log] BEGIN MyActivitiesPageTomcat 
-2016-04-26 07:02:20,592 INFO  [Log] **************************************************************************************** 
-2016-04-26 07:02:21,191 INFO  [Log] MyActivitiesPage VERIFY BASE PAGE DETAILS PASSED. 
-2016-04-26 07:02:25,467 INFO  [Log] Profile link text= New Lodgement 
-2016-04-26 07:02:25,523 INFO  [Log] Profile link text= Account Profile 
-2016-04-26 07:02:25,571 INFO  [Log] MyActivitiesPage Home link text= Home 
-2016-04-26 07:02:25,624 INFO  [Log] MyActivitiesPage MyActivities link text= My Activities 
-2016-04-26 07:02:25,638 ERROR [Log] MyActivitiesPage MyActivities Logout Button Verify FAILED 
-2016-04-26 07:02:25,642 INFO  [Log] **************************************************************************************** 
-2016-04-26 07:02:25,642 INFO  [Log] END MyActivitiesPageTomcat 
-2016-04-26 07:02:25,642 INFO  [Log] **************************************************************************************** 
-2016-04-26 07:02:25,642 INFO  [Log] X 
-2016-04-26 07:02:25,642 INFO  [Log] X 
-2016-04-26 07:02:25,654 INFO  [Log] Tear Down BASETEST.. 
+2016-04-26 21:37:18,737 INFO  [Log] **************************************************************************************** 
+2016-04-26 21:37:18,740 INFO  [Log] BEGIN MyActivitiesPageTomcat 
+2016-04-26 21:37:18,740 INFO  [Log] **************************************************************************************** 
+2016-04-26 21:37:19,174 INFO  [Log] MyActivitiesPage VERIFY BASE PAGE DETAILS PASSED. 
+2016-04-26 21:37:23,096 INFO  [Log] MyActivitiesPage LEAVING TEST 1. 
+2016-04-26 21:37:23,099 INFO  [Log] MyActivitiesPage ENTERING TEST 2. 
+2016-04-26 21:37:23,149 INFO  [Log] MyActivitiesPage Fisnished  TEST 2a. 
+2016-04-26 21:37:23,279 INFO  [Log] Profile link text= New Lodgement 
+2016-04-26 21:37:23,352 INFO  [Log] Profile link text= Account Profile 
+2016-04-26 21:37:23,416 INFO  [Log] MyActivitiesPage Home link text= Home 
+2016-04-26 21:37:23,468 INFO  [Log] MyActivitiesPage MyActivities link text= My Activities 
+2016-04-26 21:37:23,484 ERROR [Log] MyActivitiesPage MyActivities Logout Button Verify FAILED 
+2016-04-26 21:37:23,490 INFO  [Log] **************************************************************************************** 
+2016-04-26 21:37:23,490 INFO  [Log] END MyActivitiesPageTomcat 
+2016-04-26 21:37:23,490 INFO  [Log] **************************************************************************************** 
+2016-04-26 21:37:23,490 INFO  [Log] X 
+2016-04-26 21:37:23,490 INFO  [Log] X 
+2016-04-26 21:37:23,507 INFO  [Log] Tear Down BASETEST.. 
+2016-04-26 21:39:31,523 INFO  [Log] **************************************************************************************** 
+2016-04-26 21:39:31,524 INFO  [Log] BEGIN MyActivitiesPageTomcat 
+2016-04-26 21:39:31,524 INFO  [Log] **************************************************************************************** 
+2016-04-26 21:39:32,003 INFO  [Log] MyActivitiesPage VERIFY BASE PAGE DETAILS PASSED. 
+2016-04-26 21:39:35,697 INFO  [Log] MyActivitiesPage LEAVING TEST 1. 
+2016-04-26 21:39:35,701 INFO  [Log] MyActivitiesPage ENTERING TEST 2. 
+2016-04-26 21:39:35,751 INFO  [Log] MyActivitiesPage Fisnished  TEST 2a. 
+2016-04-26 21:39:35,799 INFO  [Log] MyActivitiesPage Fisnished  TEST 2b. 
+2016-04-26 21:39:35,881 INFO  [Log] Profile link text= New Lodgement 
+2016-04-26 21:39:35,881 INFO  [Log] MyActivitiesPage Fisnished  TEST 2c. 
+2016-04-26 21:39:35,958 INFO  [Log] Profile link text= Account Profile 
+2016-04-26 21:39:35,958 INFO  [Log] MyActivitiesPage Fisnished  TEST 2d. 
+2016-04-26 21:39:36,029 INFO  [Log] MyActivitiesPage Home link text= Home 
+2016-04-26 21:39:36,029 INFO  [Log] MyActivitiesPage Fisnished  TEST 2e. 
+2016-04-26 21:39:36,107 INFO  [Log] MyActivitiesPage MyActivities link text= My Activities 
+2016-04-26 21:39:36,107 INFO  [Log] MyActivitiesPage Fisnished  TEST 2f. 
+2016-04-26 21:39:36,124 ERROR [Log] MyActivitiesPage MyActivities Logout Button Verify FAILED 
+2016-04-26 21:39:36,129 INFO  [Log] **************************************************************************************** 
+2016-04-26 21:39:36,129 INFO  [Log] END MyActivitiesPageTomcat 
+2016-04-26 21:39:36,129 INFO  [Log] **************************************************************************************** 
+2016-04-26 21:39:36,129 INFO  [Log] X 
+2016-04-26 21:39:36,129 INFO  [Log] X 
+2016-04-26 21:39:36,143 INFO  [Log] Tear Down BASETEST.. 
+2016-04-26 21:41:05,776 INFO  [Log] **************************************************************************************** 
+2016-04-26 21:41:05,777 INFO  [Log] BEGIN MyActivitiesPageTomcat 
+2016-04-26 21:41:05,777 INFO  [Log] **************************************************************************************** 
+2016-04-26 21:41:06,259 INFO  [Log] MyActivitiesPage VERIFY BASE PAGE DETAILS PASSED. 
+2016-04-26 21:41:10,091 INFO  [Log] MyActivitiesPage LEAVING TEST 1. 
+2016-04-26 21:41:10,094 INFO  [Log] MyActivitiesPage ENTERING TEST 2. 
+2016-04-26 21:41:10,149 INFO  [Log] MyActivitiesPage Fisnished  TEST 2a. 
+2016-04-26 21:41:10,203 INFO  [Log] MyActivitiesPage Fisnished  TEST 2b. 
+2016-04-26 21:41:10,287 INFO  [Log] Profile link text= New Lodgement 
+2016-04-26 21:41:10,287 INFO  [Log] MyActivitiesPage Fisnished  TEST 2c. 
+2016-04-26 21:41:10,374 INFO  [Log] Profile link text= Account Profile 
+2016-04-26 21:41:10,374 INFO  [Log] MyActivitiesPage Fisnished  TEST 2d. 
+2016-04-26 21:41:10,449 INFO  [Log] MyActivitiesPage Home link text= Home 
+2016-04-26 21:41:10,449 INFO  [Log] MyActivitiesPage Fisnished  TEST 2e. 
+2016-04-26 21:41:10,530 INFO  [Log] MyActivitiesPage MyActivities link text= My Activities 
+2016-04-26 21:41:10,530 INFO  [Log] MyActivitiesPage Fisnished  TEST 2f. 
+2016-04-26 21:41:10,530 INFO  [Log] MyActivitiesPage Fisnished  TEST 2g. 
+2016-04-26 21:41:10,530 INFO  [Log] MyActivitiesPage SHOWING LAST LINE. 
+2016-04-26 21:41:10,532 INFO  [Log] **************************************************************************************** 
+2016-04-26 21:41:10,532 INFO  [Log] END MyActivitiesPageTomcat 
+2016-04-26 21:41:10,532 INFO  [Log] **************************************************************************************** 
+2016-04-26 21:41:10,532 INFO  [Log] X 
+2016-04-26 21:41:10,532 INFO  [Log] X 
+2016-04-26 21:41:10,546 INFO  [Log] Tear Down BASETEST.. 
+2016-04-27 06:01:50,409 INFO  [Log] **************************************************************************************** 
+2016-04-27 06:01:50,410 INFO  [Log] BEGIN MyActivitiesPageTomcat 
+2016-04-27 06:01:50,410 INFO  [Log] **************************************************************************************** 
+2016-04-27 06:01:51,049 INFO  [Log] MyActivitiesPage VERIFY BASE PAGE DETAILS PASSED. 
+2016-04-27 06:01:54,790 INFO  [Log] MyActivitiesPage LEAVING TEST 1. 
+2016-04-27 06:01:54,793 INFO  [Log] MyActivitiesPage ENTERING TEST 2. 
+2016-04-27 06:01:54,821 INFO  [Log] MyActivitiesPage Fisnished  TEST 2a. 
+2016-04-27 06:01:54,849 INFO  [Log] MyActivitiesPage Fisnished  TEST 2b. 
+2016-04-27 06:01:54,894 INFO  [Log] Profile link text= New Lodgement 
+2016-04-27 06:01:54,894 INFO  [Log] MyActivitiesPage Fisnished  TEST 2c. 
+2016-04-27 06:01:54,946 INFO  [Log] Profile link text= Account Profile 
+2016-04-27 06:01:54,946 INFO  [Log] MyActivitiesPage Fisnished  TEST 2d. 
+2016-04-27 06:01:54,987 INFO  [Log] MyActivitiesPage Home link text= Home 
+2016-04-27 06:01:54,988 INFO  [Log] MyActivitiesPage Fisnished  TEST 2e. 
+2016-04-27 06:01:55,036 INFO  [Log] MyActivitiesPage MyActivities link text= My Activities 
+2016-04-27 06:01:55,036 INFO  [Log] MyActivitiesPage Fisnished  TEST 2f. 
+2016-04-27 06:01:55,054 ERROR [Log] MyActivitiesPage MyActivities Logout Button Verify FAILED 
+2016-04-27 06:01:55,058 INFO  [Log] **************************************************************************************** 
+2016-04-27 06:01:55,058 INFO  [Log] END MyActivitiesPageTomcat 
+2016-04-27 06:01:55,058 INFO  [Log] **************************************************************************************** 
+2016-04-27 06:01:55,059 INFO  [Log] X 
+2016-04-27 06:01:55,059 INFO  [Log] X 
+2016-04-27 06:01:55,072 INFO  [Log] Tear Down BASETEST.. 
+2016-04-27 06:03:40,688 INFO  [Log] **************************************************************************************** 
+2016-04-27 06:03:40,689 INFO  [Log] BEGIN MyActivitiesPageTomcat 
+2016-04-27 06:03:40,689 INFO  [Log] **************************************************************************************** 
+2016-04-27 06:03:41,149 INFO  [Log] MyActivitiesPage VERIFY BASE PAGE DETAILS PASSED. 
+2016-04-27 06:03:45,156 INFO  [Log] MyActivitiesPage LEAVING TEST 1. 
+2016-04-27 06:03:45,159 INFO  [Log] MyActivitiesPage ENTERING TEST 2. 
+2016-04-27 06:03:45,191 INFO  [Log] MyActivitiesPage Fisnished  TEST 2a. 
+2016-04-27 06:03:45,218 INFO  [Log] MyActivitiesPage Fisnished  TEST 2b. 
+2016-04-27 06:03:45,266 INFO  [Log] Profile link text= New Lodgement 
+2016-04-27 06:03:45,266 INFO  [Log] MyActivitiesPage Fisnished  TEST 2c. 
+2016-04-27 06:03:45,324 INFO  [Log] Profile link text= Account Profile 
+2016-04-27 06:03:45,325 INFO  [Log] MyActivitiesPage Fisnished  TEST 2d. 
+2016-04-27 06:03:45,380 INFO  [Log] MyActivitiesPage Home link text= Home 
+2016-04-27 06:03:45,380 INFO  [Log] MyActivitiesPage Fisnished  TEST 2e. 
+2016-04-27 06:03:45,429 INFO  [Log] MyActivitiesPage MyActivities link text= My Activities 
+2016-04-27 06:03:45,430 INFO  [Log] MyActivitiesPage Fisnished  TEST 2f. 
+2016-04-27 06:03:45,443 ERROR [Log] MyActivitiesPage MyActivities Logout Button Verify FAILED 
+2016-04-27 06:03:45,447 INFO  [Log] **************************************************************************************** 
+2016-04-27 06:03:45,447 INFO  [Log] END MyActivitiesPageTomcat 
+2016-04-27 06:03:45,447 INFO  [Log] **************************************************************************************** 
+2016-04-27 06:03:45,447 INFO  [Log] X 
+2016-04-27 06:03:45,447 INFO  [Log] X 
+2016-04-27 06:03:45,465 INFO  [Log] Tear Down BASETEST.. 
+2016-04-27 06:04:33,152 INFO  [Log] **************************************************************************************** 
+2016-04-27 06:04:33,153 INFO  [Log] BEGIN MyActivitiesPageTomcat 
+2016-04-27 06:04:33,154 INFO  [Log] **************************************************************************************** 
+2016-04-27 06:04:33,642 INFO  [Log] MyActivitiesPage VERIFY BASE PAGE DETAILS PASSED. 
+2016-04-27 06:04:37,643 INFO  [Log] MyActivitiesPage LEAVING TEST 1. 
+2016-04-27 06:04:37,645 INFO  [Log] MyActivitiesPage ENTERING TEST 2. 
+2016-04-27 06:04:37,678 INFO  [Log] MyActivitiesPage Fisnished  TEST 2a. 
+2016-04-27 06:04:37,707 INFO  [Log] MyActivitiesPage Fisnished  TEST 2b. 
+2016-04-27 06:04:37,757 INFO  [Log] Profile link text= New Lodgement 
+2016-04-27 06:04:37,757 INFO  [Log] MyActivitiesPage Fisnished  TEST 2c. 
+2016-04-27 06:04:37,819 INFO  [Log] Profile link text= Account Profile 
+2016-04-27 06:04:37,820 INFO  [Log] MyActivitiesPage Fisnished  TEST 2d. 
+2016-04-27 06:04:37,872 INFO  [Log] MyActivitiesPage Home link text= Home 
+2016-04-27 06:04:37,873 INFO  [Log] MyActivitiesPage Fisnished  TEST 2e. 
+2016-04-27 06:04:37,923 INFO  [Log] MyActivitiesPage MyActivities link text= My Activities 
+2016-04-27 06:04:37,923 INFO  [Log] MyActivitiesPage Fisnished  TEST 2f. 
+2016-04-27 06:04:37,936 ERROR [Log] MyActivitiesPage MyActivities Logout Button Verify FAILED 
+2016-04-27 06:04:37,939 INFO  [Log] **************************************************************************************** 
+2016-04-27 06:04:37,939 INFO  [Log] END MyActivitiesPageTomcat 
+2016-04-27 06:04:37,939 INFO  [Log] **************************************************************************************** 
+2016-04-27 06:04:37,939 INFO  [Log] X 
+2016-04-27 06:04:37,939 INFO  [Log] X 
+2016-04-27 06:04:37,955 INFO  [Log] Tear Down BASETEST.. 
+2016-04-27 06:27:55,671 INFO  [Log] **************************************************************************************** 
+2016-04-27 06:27:55,673 INFO  [Log] BEGIN MyActivitiesPageTomcat 
+2016-04-27 06:27:55,673 INFO  [Log] **************************************************************************************** 
+2016-04-27 06:27:56,124 INFO  [Log] MyActivitiesPage VERIFY BASE PAGE DETAILS PASSED. 
+2016-04-27 06:27:59,919 INFO  [Log] MyActivitiesPage LEAVING TEST 1. 
+2016-04-27 06:27:59,921 INFO  [Log] MyActivitiesPage ENTERING TEST 2. 
+2016-04-27 06:27:59,955 INFO  [Log] MyActivitiesPage Fisnished  TEST 2a. 
+2016-04-27 06:27:59,982 INFO  [Log] MyActivitiesPage Fisnished  TEST 2b. 
+2016-04-27 06:28:00,054 INFO  [Log] Profile link text= New Lodgement 
+2016-04-27 06:28:00,055 INFO  [Log] MyActivitiesPage Fisnished  TEST 2c. 
+2016-04-27 06:28:00,142 INFO  [Log] Profile link text= Account Profile 
+2016-04-27 06:28:00,142 INFO  [Log] MyActivitiesPage Fisnished  TEST 2d. 
+2016-04-27 06:28:00,246 INFO  [Log] MyActivitiesPage Home link text= Home 
+2016-04-27 06:28:00,246 INFO  [Log] MyActivitiesPage Fisnished  TEST 2e. 
+2016-04-27 06:28:00,313 INFO  [Log] MyActivitiesPage MyActivities link text= My Activities 
+2016-04-27 06:28:00,313 INFO  [Log] MyActivitiesPage Fisnished  TEST 2f. 
+2016-04-27 06:28:00,374 INFO  [Log] MyActivitiesPage Logout Button link text=  
+2016-04-27 06:28:00,374 INFO  [Log] MyActivitiesPage Fisnished  TEST 2g. 
+2016-04-27 06:28:00,374 INFO  [Log] MyActivitiesPage SHOWING LAST LINE. 
+2016-04-27 06:28:00,375 INFO  [Log] **************************************************************************************** 
+2016-04-27 06:28:00,375 INFO  [Log] END MyActivitiesPageTomcat 
+2016-04-27 06:28:00,375 INFO  [Log] **************************************************************************************** 
+2016-04-27 06:28:00,375 INFO  [Log] X 
+2016-04-27 06:28:00,376 INFO  [Log] X 
+2016-04-27 06:28:00,388 INFO  [Log] Tear Down BASETEST.. 
+2016-04-27 06:31:58,577 INFO  [Log] **************************************************************************************** 
+2016-04-27 06:31:58,580 INFO  [Log] BEGIN MyActivitiesPageTomcat 
+2016-04-27 06:31:58,580 INFO  [Log] **************************************************************************************** 
+2016-04-27 06:31:59,053 INFO  [Log] MyActivitiesPage VERIFY BASE PAGE DETAILS PASSED. 
+2016-04-27 06:32:02,962 INFO  [Log] MyActivitiesPage LEAVING TEST 1. 
+2016-04-27 06:32:02,965 INFO  [Log] MyActivitiesPage ENTERING TEST 2. 
+2016-04-27 06:32:02,999 INFO  [Log] MyActivitiesPage Fisnished  TEST 2a. 
+2016-04-27 06:32:03,025 INFO  [Log] MyActivitiesPage Fisnished  TEST 2b. 
+2016-04-27 06:32:03,074 INFO  [Log] Profile link text= New Lodgement 
+2016-04-27 06:32:03,074 INFO  [Log] MyActivitiesPage Fisnished  TEST 2c. 
+2016-04-27 06:32:03,133 INFO  [Log] Profile link text= Account Profile 
+2016-04-27 06:32:03,133 INFO  [Log] MyActivitiesPage Fisnished  TEST 2d. 
+2016-04-27 06:32:03,186 INFO  [Log] MyActivitiesPage Home link text= Home 
+2016-04-27 06:32:03,187 INFO  [Log] MyActivitiesPage Fisnished  TEST 2e. 
+2016-04-27 06:32:03,232 INFO  [Log] MyActivitiesPage MyActivities link text= My Activities 
+2016-04-27 06:32:03,232 INFO  [Log] MyActivitiesPage Fisnished  TEST 2f. 
+2016-04-27 06:32:03,288 INFO  [Log] MyActivitiesPage Logout Button link text=  
+2016-04-27 06:32:03,288 INFO  [Log] MyActivitiesPage Fisnished  TEST 2g. 
+2016-04-27 06:32:03,288 INFO  [Log] MyActivitiesPage SHOWING LAST LINE. 
+2016-04-27 06:32:03,290 INFO  [Log] **************************************************************************************** 
+2016-04-27 06:32:03,290 INFO  [Log] END MyActivitiesPageTomcat 
+2016-04-27 06:32:03,290 INFO  [Log] **************************************************************************************** 
+2016-04-27 06:32:03,290 INFO  [Log] X 
+2016-04-27 06:32:03,290 INFO  [Log] X 
+2016-04-27 06:32:03,301 INFO  [Log] Tear Down BASETEST.. 
+2016-04-27 06:35:59,132 INFO  [Log] **************************************************************************************** 
+2016-04-27 06:35:59,133 INFO  [Log] BEGIN MyActivitiesPageTomcat 
+2016-04-27 06:35:59,133 INFO  [Log] **************************************************************************************** 
+2016-04-27 06:35:59,605 INFO  [Log] MyActivitiesPage VERIFY BASE PAGE DETAILS PASSED. 
+2016-04-27 06:36:03,715 INFO  [Log] MyActivitiesPage LEAVING TEST 1. 
+2016-04-27 06:36:03,717 INFO  [Log] MyActivitiesPage ENTERING TEST 2. 
+2016-04-27 06:36:03,749 INFO  [Log] MyActivitiesPage Fisnished  TEST 2a. 
+2016-04-27 06:36:03,775 INFO  [Log] MyActivitiesPage Fisnished  TEST 2b. 
+2016-04-27 06:36:03,823 INFO  [Log] Profile link text= New Lodgement 
+2016-04-27 06:36:03,823 INFO  [Log] MyActivitiesPage Fisnished  TEST 2c. 
+2016-04-27 06:36:03,884 INFO  [Log] Profile link text= Account Profile 
+2016-04-27 06:36:03,884 INFO  [Log] MyActivitiesPage Fisnished  TEST 2d. 
+2016-04-27 06:36:03,931 INFO  [Log] MyActivitiesPage Home link text= Home 
+2016-04-27 06:36:03,931 INFO  [Log] MyActivitiesPage Fisnished  TEST 2e. 
+2016-04-27 06:36:03,982 INFO  [Log] MyActivitiesPage MyActivities link text= My Activities 
+2016-04-27 06:36:03,982 INFO  [Log] MyActivitiesPage Fisnished  TEST 2f. 
+2016-04-27 06:36:04,030 INFO  [Log] MyActivitiesPage Logout Button link text=  
+2016-04-27 06:36:04,030 INFO  [Log] MyActivitiesPage Fisnished  TEST 2g. 
+2016-04-27 06:36:04,508 INFO  [Log] MyActivitiesPage SHOWING LAST LINE. 
+2016-04-27 06:36:04,510 INFO  [Log] **************************************************************************************** 
+2016-04-27 06:36:04,510 INFO  [Log] END MyActivitiesPageTomcat 
+2016-04-27 06:36:04,510 INFO  [Log] **************************************************************************************** 
+2016-04-27 06:36:04,510 INFO  [Log] X 
+2016-04-27 06:36:04,510 INFO  [Log] X 
+2016-04-27 06:36:04,542 INFO  [Log] Tear Down BASETEST.. 

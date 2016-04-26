@@ -35,7 +35,7 @@ public class MyActivitiesPageTomcat {
     private WebElement newLodgementLink;
     @FindBy(xpath ="//span[@class='form-header']")
     private WebElement headerPageText;
-    @FindBy(xpath ="//td[@id='MyAccountHeading']")
+    @FindBy(xpath ="//td[contains(@id,'MyAccountHeading')]")
     private WebElement navigatePageText;
     @FindBy(xpath = "//span[contains(@id,'AccountProfileMenuText')]")
     private WebElement profileLink;
@@ -49,7 +49,7 @@ public class MyActivitiesPageTomcat {
     private WebElement logoutButton;
     @FindBy(xpath = "//h3[contains(.,'There was a problem logging into your account.')]")
     private WebElement basePageProblemLoginMessage;
-    @FindBy(css = "type#submit")
+    @FindBy(css = "input[type='submit'][value='Log out']")
     private WebElement submitCSS;
 
     private String userNameSI = "wheel37uv";
@@ -258,9 +258,9 @@ public class MyActivitiesPageTomcat {
     public void clickOnLogoutButton() {
  //       WebElement signInBtn = driver.findElement(logoutButton);
         System.out.println("clickOn SignIn button start.");
-        if(logoutButton.isDisplayed())
+        if(submitCSS.isDisplayed())
             //System.out.println("SignIn button is displayed.");
-            logoutButton.click();
+            submitCSS.click();
     }
 
 
