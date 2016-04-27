@@ -112,7 +112,7 @@ public class MyActivitiesPageTomcatTest extends TestBaseSetup {
         ScreenShooter.messageTomcatPrint("MyActivitiesPage Fisnished  TEST 2g.");
 
         myActivitiesPageTomcat.clickOnLogoutButton();
-        
+
 
         ScreenShooter.messageTomcatPrint("MyActivitiesPage SHOWING LAST LINE.");
 

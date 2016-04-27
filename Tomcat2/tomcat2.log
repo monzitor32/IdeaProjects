@@ -207,3 +207,28 @@
 2016-04-27 06:36:04,510 INFO  [Log] X 
 2016-04-27 06:36:04,510 INFO  [Log] X 
 2016-04-27 06:36:04,542 INFO  [Log] Tear Down BASETEST.. 
+2016-04-27 19:51:45,467 INFO  [Log] **************************************************************************************** 
+2016-04-27 19:51:46,022 INFO  [Log] BEGIN MyActivitiesPageTomcat 
+2016-04-27 19:51:46,022 INFO  [Log] **************************************************************************************** 
+2016-04-27 19:51:46,757 INFO  [Log] MyActivitiesPage VERIFY BASE PAGE DETAILS PASSED. 
+2016-04-27 19:51:52,307 INFO  [Log] MyActivitiesPage LEAVING TEST 1. 
+2016-04-27 19:51:52,310 INFO  [Log] MyActivitiesPage ENTERING TEST 2. 
+2016-04-27 19:51:52,348 INFO  [Log] MyActivitiesPage Fisnished  TEST 2a. 
+2016-04-27 19:51:52,383 INFO  [Log] MyActivitiesPage Fisnished  TEST 2b. 
+2016-04-27 19:51:52,443 INFO  [Log] Profile link text= New Lodgement 
+2016-04-27 19:51:52,443 INFO  [Log] MyActivitiesPage Fisnished  TEST 2c. 
+2016-04-27 19:51:52,506 INFO  [Log] Profile link text= Account Profile 
+2016-04-27 19:51:52,506 INFO  [Log] MyActivitiesPage Fisnished  TEST 2d. 
+2016-04-27 19:51:52,572 INFO  [Log] MyActivitiesPage Home link text= Home 
+2016-04-27 19:51:52,572 INFO  [Log] MyActivitiesPage Fisnished  TEST 2e. 
+2016-04-27 19:51:52,638 INFO  [Log] MyActivitiesPage MyActivities link text= My Activities 
+2016-04-27 19:51:52,638 INFO  [Log] MyActivitiesPage Fisnished  TEST 2f. 
+2016-04-27 19:51:52,695 INFO  [Log] MyActivitiesPage Logout Button link text=  
+2016-04-27 19:51:52,695 INFO  [Log] MyActivitiesPage Fisnished  TEST 2g. 
+2016-04-27 19:51:53,252 INFO  [Log] MyActivitiesPage SHOWING LAST LINE. 
+2016-04-27 19:51:53,253 INFO  [Log] **************************************************************************************** 
+2016-04-27 19:51:53,253 INFO  [Log] END MyActivitiesPageTomcat 
+2016-04-27 19:51:53,253 INFO  [Log] **************************************************************************************** 
+2016-04-27 19:51:53,253 INFO  [Log] X 
+2016-04-27 19:51:53,253 INFO  [Log] X 
+2016-04-27 19:51:53,292 INFO  [Log] Tear Down BASETEST.. 
